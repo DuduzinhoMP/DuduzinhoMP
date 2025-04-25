@@ -32,6 +32,7 @@
 
 ###
 
-![GitHub stars](https://img.shields.io/github/stars/DuduzinhoMP/REPO_NAME?style=flat&logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/DuduzinhoMP/REPO_NAME?style=flat)
+
 
 
