@@ -31,3 +31,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuduzinhoMP&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
 ###
+[![GitHub followers](https://img.shields.io/github/followers/DuduzinhoMP?label=Seguidores&style=social)](https://github.com/DuduzinhoMP)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
