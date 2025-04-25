@@ -32,4 +32,3 @@
 
 ###
 
-https://img.shields.io/badge/gitea-forks-blue
