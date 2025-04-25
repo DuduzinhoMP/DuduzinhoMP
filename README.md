@@ -31,9 +31,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuduzinhoMP&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
 ###
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-
-
-
