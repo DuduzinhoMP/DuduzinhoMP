@@ -32,3 +32,6 @@
 
 ###
 
+![GitHub stars](https://img.shields.io/github/stars/DuduzinhoMP/REPO_NAME?style=flat&logo=github)
+
+
