@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o @DuduzinhoMP
+## 👋 Olá! Eu sou o Eduardo Pedrozo
 
 - 👀 Tenho interesse em desenvolvimento web, automação e soluções criativas com código  
 - 🌱 Atualmente estou aprendendo novas tecnologias front-end e back-end  
