@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @DuduzinhoMP
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Olá! Eu sou o @DuduzinhoMP
+
+- 👀 Tenho interesse em desenvolvimento web, automação e soluções criativas com código  
+- 🌱 Atualmente estou aprendendo novas tecnologias front-end e back-end  
+- 💞️ Estou aberto a colaborar em projetos open source e aplicações web inovadoras  
+- ⚡ Curiosidade: Sempre busco unir criatividade com tecnologia pra resolver problemas reais 🚀
 
 <hr>
 
@@ -31,5 +30,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuduzinhoMP&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
 ###
-[![GitHub followers](https://img.shields.io/github/followers/DuduzinhoMP?label=Seguidores&style=social)](https://github.com/DuduzinhoMP)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+
