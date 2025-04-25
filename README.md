@@ -34,6 +34,6 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuduzinhoMP&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&icon_color=ff0000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuduzinhoMP&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ff0000)
 
 ###
