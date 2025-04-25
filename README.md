@@ -31,3 +31,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuduzinhoMP&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
 ###
+
+https://img.shields.io/badge/gitea-forks-blue
